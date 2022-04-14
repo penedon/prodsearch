@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test translation Load Component in English 1`] = `
+<div
+  class="outer-headerMenu"
+>
+  <div
+    class="headerMenu"
+  >
+    <transition-stub>
+      <h1>
+        PROD SEARCH
+      </h1>
+    </transition-stub>
+    <transition-stub>
+      <!--v-if-->
+    </transition-stub>
+    <div
+      class="transitionSearchBox"
+    >
+      <search-block-stub
+        styletransparent="false"
+      />
+    </div>
+    <localization-menu-stub />
+  </div>
+  <transition-stub>
+    <!--v-if-->
+  </transition-stub>
+</div>
+`;
+
+exports[`test translation translates component to Portuguese 1`] = `
+<div
+  class="outer-headerMenu"
+>
+  <div
+    class="headerMenu"
+  >
+    <transition-stub>
+      <h1>
+        PROD SEARCH
+      </h1>
+    </transition-stub>
+    <transition-stub>
+      <!--v-if-->
+    </transition-stub>
+    <div
+      class="transitionSearchBox"
+    >
+      <search-block-stub
+        styletransparent="false"
+      />
+    </div>
+    <localization-menu-stub />
+  </div>
+  <transition-stub>
+    <!--v-if-->
+  </transition-stub>
+</div>
+`;
+
+exports[`test translation translates component to Spanish 1`] = `
+<div
+  class="outer-headerMenu"
+>
+  <div
+    class="headerMenu"
+  >
+    <transition-stub>
+      <h1>
+        PROD SEARCH
+      </h1>
+    </transition-stub>
+    <transition-stub>
+      <!--v-if-->
+    </transition-stub>
+    <div
+      class="transitionSearchBox"
+    >
+      <search-block-stub
+        styletransparent="false"
+      />
+    </div>
+    <localization-menu-stub />
+  </div>
+  <transition-stub>
+    <!--v-if-->
+  </transition-stub>
+</div>
+`;
