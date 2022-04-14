@@ -18,7 +18,7 @@ Below are the two methods to run the application on a local environment:
     ```
 2. <b>Local Docker</b> 
 
-    * Requires ```Docker``` installed
+    * Requires ```docker``` and ```docker-compose``` installed
 
     Inside the project folder run the following command:
 
